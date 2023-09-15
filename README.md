@@ -16,3 +16,4 @@ WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
+![image](https://github.com/Negatseg/friendly-parakeet/assets/81937460/d827bc41-b1b0-4cff-8a72-a50a76a8c9f5)
